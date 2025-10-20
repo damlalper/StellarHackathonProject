@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Desktop\DEVAM\ EDENLER\blockchain-hackathon-risein\ticketchain-dapp\contracts\ticketchain\target\wasm32v1-none\release\ticketchain.wasm: C:\Users\Lenovo\Desktop\DEVAM\ EDENLER\blockchain-hackathon-risein\ticketchain-dapp\contracts\ticketchain\src\lib.rs
