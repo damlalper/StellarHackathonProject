@@ -124,7 +124,7 @@ Before you begin, ensure you have the following installed:
     Create a `.env.local` file in the root of the project and add your Soroban contract ID:
 
     ```
-    NEXT_PUBLIC_SOROBAN_CONTRACT_ID=YOUR_CONTRACT_ID
+    NEXT_PUBLIC_SOROBAN_CONTRACT_ID=CCHTMHCVPUXAODEKKCJW3J2WAZXKQYUCE4TFE26GUBTEVOQNG4F6L5WQ
     ```
 
 4.  **Run the development server:**
